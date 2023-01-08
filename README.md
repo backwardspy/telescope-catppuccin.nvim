@@ -2,6 +2,8 @@
 
 catppuccin colour picker for telescope
 
+![telescope window with catppuccin colours filtered by "teal"](https://user-images.githubusercontent.com/289746/211176170-cc8edac2-19be-4eb3-8f58-d6f0971b8256.png)
+
 ## installation
 
 install the following plugins with your plugin manager of choice:

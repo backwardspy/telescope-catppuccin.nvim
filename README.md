@@ -11,9 +11,13 @@ install the following plugins with your plugin manager of choice:
 ```lua
 {
     "nvim-telescope/telescope.nvim",
+    { "catppuccin/nvim", as = "catppuccin" },
     "backwardspy/telescope-catppuccin.nvim",
 }
 ```
+
+*note: depends on the [catppuccin theme](https://github.com/catppuccin/nvim)
+to provide colours. install it as per the theme docs.*
 
 ## usage
 

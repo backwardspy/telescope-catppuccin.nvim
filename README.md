@@ -10,6 +10,7 @@ install the following plugins with your plugin manager of choice:
 
 ```lua
 {
+    "nvim-lua/plenary.nvim",
     "nvim-telescope/telescope.nvim",
     { "catppuccin/nvim", as = "catppuccin" },
     "backwardspy/telescope-catppuccin.nvim",
